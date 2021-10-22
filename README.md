@@ -1,4 +1,4 @@
-# HeartDisease_ML_Prediction_Assign
+# Heart_Disease_ML_Prediction
 
 ### This project is to create a model that predicts whether a person is at the risk of Heart Disease.
 
